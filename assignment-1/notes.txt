@@ -1,0 +1,16 @@
+users=> id , name,  age, job
+
+crud => create, read, update, delete, show single
+
+localstorage => users => [
+    {id:1, name:"", age:"", job:""},
+    .....
+]
+
+read from storage
+write to storage
+create 
+read 
+update 
+delete 
+show single

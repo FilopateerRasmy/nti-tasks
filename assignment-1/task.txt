@@ -1,0 +1,9 @@
+bank 
+client=> name, intialbalance, accountNum, transactions = []
+=> addTransaction => select type of tranaction (add, withdraw), value
+
+tranactions = [
+    {transactionType:"add", transactionVal: 100}
+]
+
+
